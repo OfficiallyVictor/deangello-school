@@ -137,7 +137,10 @@
 
         .logo span {
           color: var(--accent);
-          font-size: 1rem ;
+            
+        }
+        .hero-content span {
+          color: var(--accent);
             
         }
 
